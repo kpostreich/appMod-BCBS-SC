@@ -1,0 +1,7 @@
+site_name: Application Modernization for BCBS-SC
+nav:
+  - Home: index.md
+  - Workshop Labs: day1.md
+  - Accessing lab environments: lab-env.md
+theme: readthedocs  
+extra_css: ["extra.css"]
