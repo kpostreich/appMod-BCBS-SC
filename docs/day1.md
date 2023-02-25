@@ -11,11 +11,12 @@
 
   - LAB 1158-Part 1: [Introduction to containers](https://github.com/IBMTechSales/klp-workshop-labs/tree/master/1158-Docker-Containers%2BOpenShift/1158-Part1-IntroContainer)
   
-  
+   
+
   
   - LAB 1158-Part 2: [Introduction to RedHat OpenShift](https://github.com/IBMTechSales/klp-workshop-labs/tree/master/1158-Docker-Containers%2BOpenShift/1158-Part2-IntroOpenshift)
   
-  
+
   
 ### Appication Modernization Labs
  

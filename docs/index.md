@@ -14,7 +14,7 @@ Time: 8:30 pm - 4:30 pm
   
   
 <h3 style="color:black">Proposed Agenda</h3>
-![](images/agenda.png)
+![](images/agenda-1.png)
 
 
 
